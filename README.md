@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/poddarchhatri-source/Leetcode/tree/master/0001-two-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/poddarchhatri-source/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/poddarchhatri-source/Leetcode/tree/master/0001-two-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/poddarchhatri-source/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Sliding Window
 |  |
